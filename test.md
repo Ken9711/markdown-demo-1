@@ -24,4 +24,4 @@
 4. 刘亦菲
 5. 李红
 
-点击[这里](WWW.XIAOMI.COM)打开小米官网
+点击[这里](http://WWW.XIAOMI.COM)打开小米官网
